@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1556240248 source:c:\users\monsterpc\desktop\porthandling\src\agency.cpp
+	"Agency.h"
+	<iostream>
+	<string.h>
+
+1556237879 c:\users\monsterpc\desktop\porthandling\include\agency.h
+	<Port.h>
+
+1556240406 source:c:\users\monsterpc\desktop\porthandling\src\port.cpp
+	"Port.h"
+	<iostream>
+	<string.h>
+	<typeinfo>
+
+1556234793 c:\users\monsterpc\desktop\porthandling\include\port.h
+	<Ship.h>
+	<CargoShip.h>
+	<OilTanker.h>
+	<PassengerShip.h>
+
+1556234724 source:c:\users\monsterpc\desktop\porthandling\src\ship.cpp
+	"Ship.h"
+	<iostream>
+	<string.h>
+
+1556234739 c:\users\monsterpc\desktop\porthandling\include\ship.h
+
+1556240476 source:c:\users\monsterpc\desktop\porthandling\main.cpp
+	<iostream>
+	<Agency.h>
+	<Port.h>
+	<CargoShip.h>
+	<PassengerShip.h>
+	<OilTanker.h>
+
+1556221843 source:c:\users\monsterpc\desktop\porthandling\src\cargoship.cpp
+	"CargoShip.h"
+	<Ship.h>
+	<string.h>
+	<iostream>
+
+1556221843 c:\users\monsterpc\desktop\porthandling\include\cargoship.h
+	<Ship.h>
+
+1556221843 source:c:\users\monsterpc\desktop\porthandling\src\oiltanker.cpp
+	"OilTanker.h"
+	<string.h>
+
+1556221843 c:\users\monsterpc\desktop\porthandling\include\oiltanker.h
+	<Ship.h>
+
+1556221843 source:c:\users\monsterpc\desktop\porthandling\src\passengership.cpp
+	"PassengerShip.h"
+	<string.h>
+
+1556221843 c:\users\monsterpc\desktop\porthandling\include\passengership.h
+	<Ship.h>
+
+1556243475 source:c:\users\monsterpc\desktop\yeni klasör\main.cpp
+	<iostream>
+	<Agency.h>
+	<Port.h>
+	<CargoShip.h>
+	<PassengerShip.h>
+	<OilTanker.h>
+
+1556242291 c:\users\monsterpc\desktop\yeni klasör\include\agency.h
+	<Port.h>
+
+1556242792 c:\users\monsterpc\desktop\yeni klasör\include\port.h
+	<Ship.h>
+	<CargoShip.h>
+	<OilTanker.h>
+	<PassengerShip.h>
+
+1556242910 c:\users\monsterpc\desktop\yeni klasör\include\ship.h
+
+1556242910 c:\users\monsterpc\desktop\yeni klasör\include\cargoship.h
+	<Ship.h>
+
+1556221843 c:\users\monsterpc\desktop\yeni klasör\include\oiltanker.h
+	<Ship.h>
+
+1556221843 c:\users\monsterpc\desktop\yeni klasör\include\passengership.h
+	<Ship.h>
+
+1556242291 source:c:\users\monsterpc\desktop\yeni klasör\src\agency.cpp
+	"Agency.h"
+	<iostream>
+	<string.h>
+
+1556221843 source:c:\users\monsterpc\desktop\yeni klasör\src\cargoship.cpp
+	"CargoShip.h"
+	<Ship.h>
+	<string.h>
+	<iostream>
+
+1556221843 source:c:\users\monsterpc\desktop\yeni klasör\src\oiltanker.cpp
+	"OilTanker.h"
+	<string.h>
+
+1556221843 source:c:\users\monsterpc\desktop\yeni klasör\src\passengership.cpp
+	"PassengerShip.h"
+	<string.h>
+
+1556242368 source:c:\users\monsterpc\desktop\yeni klasör\src\port.cpp
+	"Port.h"
+	<iostream>
+	<string.h>
+	<typeinfo>
+
+1556242797 source:c:\users\monsterpc\desktop\yeni klasör\src\ship.cpp
+	"Ship.h"
+	<iostream>
+	<string.h>
+
+1557486375 source:c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\main.cpp
+	<iostream>
+	<Agency.h>
+	<Port.h>
+	<CargoShip.h>
+	<PassengerShip.h>
+	<OilTanker.h>
+
+1557486579 c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\include\agency.h
+	<Port.h>
+
+1556242792 c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\include\port.h
+	<Ship.h>
+	<CargoShip.h>
+	<OilTanker.h>
+	<PassengerShip.h>
+
+1556242910 c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\include\ship.h
+
+1556242910 c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\include\cargoship.h
+	<Ship.h>
+
+1556221843 c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\include\oiltanker.h
+	<Ship.h>
+
+1556221843 c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\include\passengership.h
+	<Ship.h>
+
+1556242291 source:c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\src\agency.cpp
+	"Agency.h"
+	<iostream>
+	<string.h>
+
+1556221843 source:c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\src\cargoship.cpp
+	"CargoShip.h"
+	<Ship.h>
+	<string.h>
+	<iostream>
+
+1556221843 source:c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\src\oiltanker.cpp
+	"OilTanker.h"
+	<string.h>
+
+1556221843 source:c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\src\passengership.cpp
+	"PassengerShip.h"
+	<string.h>
+
+1556242368 source:c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\src\port.cpp
+	"Port.h"
+	<iostream>
+	<string.h>
+	<typeinfo>
+
+1556242797 source:c:\users\monsterpc\desktop\pp\porthandlingagency-mert Þamil gül\src\ship.cpp
+	"Ship.h"
+	<iostream>
+	<string.h>
+
